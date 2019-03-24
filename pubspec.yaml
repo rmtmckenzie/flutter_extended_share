@@ -1,0 +1,21 @@
+name: extended_share
+description: A flutter plugin to perform a share with an optional subject
+version: 0.0.1
+author: Morgan McKenzie <rmtmckenzie@gmail.com>
+homepage: https://github.com/rmtmckenzie/flutter_extended_share.git
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  plugin:
+    androidPackage: com.github.rmtmckenzie.extended_share
+    pluginClass: ExtendedSharePlugin

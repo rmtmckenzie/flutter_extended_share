@@ -1,0 +1,22 @@
+PODS:
+  - extended_share (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - extended_share (from `.symlinks/plugins/extended_share/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+EXTERNAL SOURCES:
+  extended_share:
+    :path: ".symlinks/plugins/extended_share/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  extended_share: 3c0dbd05ba0cae10fff460deb4366010915a3a1e
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.6.1
